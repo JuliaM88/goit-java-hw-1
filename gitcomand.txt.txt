@@ -1,0 +1,3 @@
+dla inicjilizacji git init
+
+git status - sprawdzic stan 
